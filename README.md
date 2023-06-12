@@ -1,5 +1,6 @@
 # SE463-Testing_Sentiment_Analysis_Code
 
+<p align="justify">
 Our sentiment analysis software is a simple simulation for natural language processing 
 technique that uses several if condition statements to automatically classify the 
 sentiment of a given text into positive, negative, or neutral categories
@@ -14,3 +15,4 @@ in Python. All of these concepts will be done side by side with improving our ab
 to operate well as team players or leaders. Also, we will present the outcomes of the 
 testing and quality assurance audit in a professional manner, both orally and in writing 
 form.
+<p align="justify">
