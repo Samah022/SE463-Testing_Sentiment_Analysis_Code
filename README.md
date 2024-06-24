@@ -1,4 +1,4 @@
-# SE463-Testing_Sentiment_Analysis_Code
+# Sentiment Analysis 😄📊
 
 <p align="justify">
 Our sentiment analysis software is a simple simulation for natural language processing 
@@ -16,3 +16,10 @@ to operate well as team players or leaders. Also, we will present the outcomes o
 testing and quality assurance audit in a professional manner, both orally and in writing 
 form.
 <p align="justify">
+
+## Contributors ✍️
+
+- Jana Aldubai
+- Salwa Shamma
+- Samah Shamma
+- Sana Shmama
